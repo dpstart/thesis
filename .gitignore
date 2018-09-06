@@ -1,4 +1,6 @@
 MNIST_data/
+dcgan_out/
+wgan_out/
 out/
 .ipynb_checkpoints
 summaries/
