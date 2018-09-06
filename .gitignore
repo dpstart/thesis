@@ -1,4 +1,5 @@
 MNIST_data/
 out/
 .ipynb_checkpoints
+summaries/
 .DS_Store
