@@ -1,3 +1,7 @@
+*.p
+*.tar.gz
+__pycache__/
+cifar-10-batches-py/
 MNIST_data/
 dcgan_out/
 wgan_out/
