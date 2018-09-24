@@ -1,3 +1,6 @@
+cgan_out/
+info_out/
+vae_out/
 *.p
 *.tar.gz
 __pycache__/
